@@ -38,26 +38,16 @@ Model was built directly from the following 2D information visible in the isomet
 
 ## 📸 Models / Screenshots
 
-![Isometric view of completed part](NX_Render_Isometric.png)  
-![Side orthographic view with key dimensions](NX_Side_View.png)  
-![Top view showing slot and clamp layout](NX_Top_View.png)  
-![Detail of clamp radii and fillet application](NX_Detail_R2.png)
-
-*(Replace placeholder image names with your actual screenshot/export files)*
+![Drawing View](SNX1.jpeg)
+![Drawing View](Dual-Radius%20Pipe%20Support%20Clamp%20App.png)
+![Drawing View](Dual-Radius%20Pipe%20Support%20Clamp.png)
 
 ## 📥 CAD Downloads
 
-- Siemens NX Part file (`.prt`)  
-  `Pipe_Support_Clamp.prt`  
-- Neutral formats  
-  `Pipe_Support_Clamp.step`  
-  `Pipe_Support_Clamp.parasolid.x_t`  
-  `Pipe_Support_Clamp.stl` (for 3D printing / visualization)  
-- Drawing export (if created)  
-  `Pipe_Support_Clamp.dwg` / `Pipe_Support_Clamp.pdf`
+stl (for 3D printing / visualization)  
 
-Download all files here:  
-[Download Pipe Support Clamp archive](./Pipe_Support_Clamp_NX.zip)
+Download the file here:  
+[Download Pipe Support Clamp archive](./Dual-Radius%20Pipe%20Support%20Clamp.zip)
 
 ## 🏭🔩 Manufacturing Considerations
 Recommended production methods:
