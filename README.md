@@ -38,9 +38,9 @@ Model was built directly from the following 2D information visible in the isomet
 
 ## 📸 Models / Screenshots
 
-![Drawing View](SNX1.jpeg)
-![Drawing View](Dual-Radius%20Pipe%20Support%20Clamp%20App.png)
-![Drawing View](Dual-Radius%20Pipe%20Support%20Clamp.png)
+![Drawing View](./siemennxassets/SNX1.jpeg)
+![Drawing View](./siemennxassets/Dual-Radius%20Pipe%20Support%20Clamp%20App.png)
+![Drawing View](./siemennxassets/Dual-Radius%20Pipe%20Support%20Clamp.png)
 
 
 ## 📥 CAD Downloads
@@ -48,7 +48,7 @@ Model was built directly from the following 2D information visible in the isomet
 stl (for 3D printing / visualization)  
 
 Download the file here:  
-[Download Pipe Support Clamp archive](./Dual-Radius%20Pipe%20Support%20Clamp.zip)
+[Download Pipe Support Clamp archive](./siemennxassets/Dual-Radius%20Pipe%20Support%20Clamp.zip)
 
 ## 🏭🔩 Manufacturing Considerations
 Recommended production methods:
