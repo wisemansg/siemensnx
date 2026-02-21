@@ -1,6 +1,6 @@
 # 🚀 SIEMENS NX
 
-# Dual-Radius Pipe Support Clamp — Siemens NX CAD Model
+# Dual-Radius Pipe Support Clamp — Siemens NX CAD Model 
 
 ## 📖 Overview
 This project models a pipe support clamp with integrated base plate, fully created in Siemens NX. The component demonstrates key NX workflows including sketch-based extrusion, revolve for cylindrical features, swept cut for slot creation, edge blending (fillets), and precise dimension-driven modeling from an engineering drawing.
