@@ -42,6 +42,9 @@ Model was built directly from the following 2D information visible in the isomet
 ![Drawing View](Dual-Radius%20Pipe%20Support%20Clamp%20App.png)
 ![Drawing View](Dual-Radius%20Pipe%20Support%20Clamp.png)
 
+
+![SNX1](SNX1.jpeg)
+
 ## 📥 CAD Downloads
 
 stl (for 3D printing / visualization)  
